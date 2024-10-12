@@ -1,3 +1,4 @@
-# suganspice-1
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/ruizTechServices/suganspice-1)
+# Suga and Spice
+## A female-run small business specializing in empanadas & churros. 
+ 
+ #### Instagram: [s.ugaandspice_](https://www.instagram.com/s.ugaandspice_/)  
